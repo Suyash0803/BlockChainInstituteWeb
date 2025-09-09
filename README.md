@@ -246,6 +246,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **⚡ Built with Next.js, TypeScript, and Tailwind CSS | Deployed on Netlify**
-#   B l o c k C h a i n I n s t i t u t e W e b 
- 
- 
+#
